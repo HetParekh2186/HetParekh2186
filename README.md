@@ -57,9 +57,4 @@ I build production software and ML systems — from internal operations platform
 **Web / App:** React · React Native · Electron · Node.js<br>
 **Tools:** Git · GitHub Actions · Docker · Linux
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HetParekh2186&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetParekh2186&layout=compact&hide_border=true" alt="Top languages">
-</p>
