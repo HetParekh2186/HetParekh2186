@@ -27,6 +27,10 @@ I build production software and ML systems — from internal operations platform
 | Software Engineering Intern | Altum Labs (Remote, Chicago) — Python data-extraction & OCR pipeline | May – Jul 2025 |
 
 ### 🚀 Featured Projects
+**[Doctor Rounds](https://github.com/HetParekh2186/doctor-rounds)** — Retrieval-augmented QA for clinical questions
+- ChromaDB retrieval pipeline over PubMedQA
+- Fine-tuned DistilBERT classifier to flag unfaithful answers
+- Automated evaluation in CI with GitHub Actions
 
 **[SEC Compliance Classifier](https://github.com/HetParekh2186/SEC)** — End-to-end ML pipeline over SEC EDGAR filings
 - Bulk-downloads filings and parses both XBRL financial data and HTML text
@@ -41,14 +45,10 @@ I build production software and ML systems — from internal operations platform
 - Preprocessing and model training on symptom/severity datasets
 - Returns likely conditions with descriptions and precautions through a web front end
 
-<!-- Add Doctor Rounds here once the repo is public:
-**[Doctor Rounds](https://github.com/HetParekh2186/doctor-rounds)** — Retrieval-augmented QA for clinical questions
-- ChromaDB retrieval pipeline over PubMedQA
-- Fine-tuned DistilBERT classifier to flag unfaithful answers
-- Automated evaluation in CI with GitHub Actions
--->
 
-**[FetchDataApp](https://github.com/HetParekh2186/FetchDataApp)** — Android app (Kotlin) built for a Fetch coding exercise
+
+
+
 
 ### 🛠️ Tech Stack
 
